@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB1</string>
+    <string name="back_description">Back</string>
+    <string name="register_title">Đăng ký tài khoản</string>
+</resources>
